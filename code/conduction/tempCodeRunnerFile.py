@@ -1,0 +1,1 @@
+np.sum(np.abs(T_pred[-1::-1, :]-T_exact)/(T_exact))

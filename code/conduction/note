@@ -1,0 +1,9 @@
+if set $T = N(x, y, t)$
+    20: loss = 8.00502e-03
+    40: 
+if set $T = tN(x, y, t)$, loss = 7e-2
+
+
+with new loss function ,1000 on initial point.
+
+[3, 20, 20, 20, 20, 20, 20, 20, 20, 1]: loss 2.86e-2
